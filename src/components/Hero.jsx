@@ -11,7 +11,7 @@ export default function Hero() {
         </p>
         <div className="hero-actions">
           <a className="btn btn-primary" href="#projects">View projects</a>
-          <a className="btn btn-ghost" href="/Arjunan_S_Resume.pdf" target="_blank" rel="noreferrer">Download résumé</a>
+          <a className="btn btn-ghost" href="/Arjunan's_Resume.pdf" target="_blank" rel="noreferrer">Download résumé</a>
         </div>
       </div>
     </section>
